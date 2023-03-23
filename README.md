@@ -20,6 +20,9 @@ A simple checkers game implemented using JavaScript, HTML, and CSS. Play with a 
 
 Clone this repository or download the files as a zip archive. Open the **CheckersV.html** file in your preferred browser to start playing.
 
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/111834642/227365365-d514f98b-08a8-425f-9e6c-c5fe5cc9796d.png">
+
+
 ## How to Play
 
 1. Green player goes first.
